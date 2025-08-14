@@ -1,5 +1,7 @@
 # PlatformSwap
 
+## Itch: https://rekonver.itch.io/platformswap
+
 ## Used Patterns and Architectures
 
 ### **Observer Pattern**
